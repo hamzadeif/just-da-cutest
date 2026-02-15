@@ -1,18 +1,9 @@
-# DevSpot ✨
-
-This repo is a little snapshot of me + what I’m building and obsessed with.
-
 ## 🐈 My cat
-
+(image is in this repo)
 
 ## 🚀 What I love most about DevSpot
+Obvisouly I love my team!! but also..
 
-### The short version
-DevSpot is my favorite kind of work: high-speed building with real stakes, where tiny product decisions ripple into the experience of thousands of hackers and organizers. I love the mix of community + engineering—shipping flows that remove friction, making hard things feel simple, and watching people go from “idea” → “submission” → “winner” in a weekend.
+DevSpot is the kind of work that actually gets me excited to open my laptop. It moves fast, it matters, and the little decisions we make end up shaping the experience for thousands of hackers and organizers. That’s wild when you really think about it.
 
-### The deeper version
-I love that DevSpot sits at the intersection of:
-- **Community energy** (hackers creating under pressure)
-- **Product clarity** (turn chaos into a smooth flow)
-- **Engineering craft** (secure, scalable, clean systems)
-- **Momentum** (shipping fast and iterating constantly)
+What I love most is the mix of community and engineering. One minute I’m thinking through edge cases in a payment flow, the next I’m watching someone submit their project five minutes before the deadline. When something feels smooth on the front end, it’s usually because we obsessed over the details behind the scenes. I love that.
